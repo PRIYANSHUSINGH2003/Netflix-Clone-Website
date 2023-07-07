@@ -1,5 +1,2 @@
 ![Screenshot 2023-07-07 135011](https://github.com/PRIYANSHUSINGH2003/Netflix-Clone-Website/assets/102310770/e58b56ab-8862-44b3-969e-0196c833b448)
-![Screenshot 2023-07-07 135338](https://github.com/PRIYANSHUSINGH2003/Netflix-Clone-Website/assets/102310770/cb0e83fe-46f8-41da-a7bb-3aa4be492878)
-![Screenshot 2023-07-07 141214](https://github.com/PRIYANSHUSINGH2003/Netflix-Clone-Website/assets/102310770/5cab9d8a-64a6-47ce-82d0-d55f74f3857e)
-![Screenshot 2023-07-07 142556](https://github.com/PRIYANSHUSINGH2003/Netflix-Clone-Website/assets/102310770/08013127-e19f-40c2-a032-a51d7e7b8d5d)
-![Screenshot 2023-07-07 150833](https://github.com/PRIYANSHUSINGH2003/Netflix-Clone-Website/assets/102310770/6dbffb58-e451-4829-8552-61e4f811cb43)
+
